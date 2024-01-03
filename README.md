@@ -6,17 +6,6 @@
 
 <br/>
 
-<div>
-  <h3 align="center">Connect with me:</h3>
-  <div align="center">
-    <img href="https://www.linkedin.com/in/aitorruizes/" src="https://skillicons.dev/icons?i=linkedin" />
-    <img href="#" src="https://skillicons.dev/icons?i=discord" />
-    <img href="#" src="https://skillicons.dev/icons?i=instagram" />
-  </div>
-</div>
-
- <hr/>
- 
 <h2 align="center">⚒️ Languages, frameworks and tools ⚒️</h2>
 <br/>
 <div align="center">
