@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate software developer from Brazil</h3>
 
-<br/>
+ <hr/>
 
 <h2 align="center">⚒️ Languages, frameworks and tools ⚒️</h2>
 <br/>
