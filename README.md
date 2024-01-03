@@ -1,6 +1,4 @@
-https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aitorruizes" />
 
 <h1 align="center">Hi 👋, I'm Aitor Ruiz</h1>
 
