@@ -1,4 +1,4 @@
-<img widht="200" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" />
+<img widht="100" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" />
 
 <h1 align="center">Hi 👋, I'm Aitor Ruiz</h1>
 
