@@ -10,9 +10,15 @@
   <a href="mailto:aitorruizagra.es@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/aitorruizes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+</div>
+
+<div>
+  <h3 align="center">Connect with me:</h3>
+  <div align="center">
+    <img href="#" src="https://skillicons.dev/icons?i=linkedin" />
+    <img href="#" src="https://skillicons.dev/icons?i=discord" />
+    <img href="#" src="https://skillicons.dev/icons?i=instagram" />
+  </div>
 </div>
 
  <hr/>
