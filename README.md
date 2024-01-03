@@ -21,8 +21,7 @@
 <h2 align="center">⚒️ Languages, frameworks and tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/c,python,javascript,typescript,html,css,tailwind,express,react,nextjs,mysql,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css,react,reactnative,nextjs,tailwind,nodejs,express,mysql,prisma" />
 </div>
 
 <br/>
