@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aitorruizes" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aitorruizes.aitorruizes" />
 
 <h1 align="center">Hi 👋, I'm Aitor Ruiz</h1>
 
@@ -20,7 +20,7 @@
 <h2 align="center">⚒️ Languages, frameworks and tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css,react,reactnative,nextjs,tailwind,nodejs,express,mysql,prisma" />
+    <img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,mysql,prisma" />
 </div>
 
 <br/>
