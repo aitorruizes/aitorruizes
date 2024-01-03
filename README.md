@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aitorruizes.aitorruizes" />
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faitorruizes%2Faitorruizes"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faitorruizes%2Faitorruizes&countColor=%23263759" /></a>
 
 <h1 align="center">Hi 👋, I'm Aitor Ruiz</h1>
 
